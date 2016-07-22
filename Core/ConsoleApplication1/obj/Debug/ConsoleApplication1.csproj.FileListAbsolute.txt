@@ -1,0 +1,15 @@
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\Core.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\WebDriver.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\nunit.framework.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\Core.pdb
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\WebDriver.pdb
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\WebDriver.xml
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\bin\Debug\nunit.framework.xml
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

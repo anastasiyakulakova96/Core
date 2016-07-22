@@ -1,0 +1,12 @@
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\WebDriver.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\WebDriver.pdb
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\Core.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\nunit.framework.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\WebDriver.Support.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\Core.pdb
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\nunit.framework.xml
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\WebDriver.xml
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\bin\Debug\WebDriver.Support.xml
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\obj\Debug\WebDriver.csprojResolveAssemblyReference.cache
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\obj\Debug\WebDriver.dll
+c:\Users\anastasiya_kulakova\documents\visual studio 2015\Projects\Core\WebDriver\obj\Debug\WebDriver.pdb
